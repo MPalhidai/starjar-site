@@ -1,6 +1,6 @@
 # starjar.me
 
-Static website for **Star Jar**, a simple reward-jar app for iPhone by Michael Palhidai.
+Static website for **Star Jar**, a simple reward-jar app for iPhone by Laid Off Dad Ventures LLC.
 
 Hosted on GitHub Pages at https://starjar.me (custom domain via `CNAME`).
 
